@@ -1,5 +1,5 @@
-#ifndef _LED_H
-#define _LED_H
+#ifndef _BUTTONS_H
+#define _BUTTONS_H
 
 #define LED1       10
 #define LED2        9
